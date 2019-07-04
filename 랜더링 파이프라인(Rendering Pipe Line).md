@@ -37,7 +37,7 @@
 
 * **구성**
 
-  ![Stage](C:\Users\strip\Desktop\Github\렌더링파이프라인\Stage.PNG)
+  ![Stage](./Stage.PNG)
 
   * **입력 어셈블러 스테이지(고정처리)**
 
